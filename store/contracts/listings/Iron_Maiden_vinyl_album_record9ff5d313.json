@@ -1,0 +1,101 @@
+{
+    "vendor_offer": {
+        "signatures": {
+            "guid": "q4xaqzLnHo5AJa++0g8lR3SSGba3FnIuxtvQ4ScVYi56OP9QHFOGMJJBvWFIdQwvIy3ytnbkOBrvcWZxNP+aCQ==", 
+            "bitcoin": "IJ8UvLEesR17SjdI81qCWTgPj+T0nulJKb7zhvfz0dFBa/cjpWrou8uegVbmEJrV3QpVu7bjIcV4gxN278tCcJQ="
+        }, 
+        "listing": {
+            "id": {
+                "pubkeys": {
+                    "guid": "e9a143206f69be7bfeeefcb5b97f691d7a42f9e35111774b946c676a3ae73782", 
+                    "bitcoin": "039e9e7a09c802fb7f89f9e7ba0fd3bc0d033405e8493c639e6ec964ac694079a8"
+                }, 
+                "guid": "2549579aaf88e93ff3a6a5d3999f1a71b629546f"
+            }, 
+            "item": {
+                "category": "Music", 
+                "description": "Iron Maiden's first album from 1980, in excellent condition with no scratches or damage to the vinyl. The jacket has no damage to edges, otherwise in excellent condition.\r\n\r\nShipping via USPS, vinyl albums are large package sizing.", 
+                "price_per_unit": {
+                    "fiat": {
+                        "price": "25.00", 
+                        "currency_code": "USD"
+                    }
+                }, 
+                "title": "Iron Maiden vinyl album record", 
+                "process_time": "2 - 3 Days", 
+                "image_hashes": [
+                    "b9b0b2b6768f38cba8e350ab8a4a779eca027bec"
+                ], 
+                "nsfw": false, 
+                "keywords": [
+                    "Vinyl", 
+                    "Record", 
+                    "Music", 
+                    "Album", 
+                    "Classic", 
+                    "IronMaiden"
+                ], 
+                "condition": "Used - excellent"
+            }, 
+            "contract_id": "9ff5d313db8867b946543139a603232bb665a645", 
+            "shipping": {
+                "flat_fee": {
+                    "fiat": {
+                        "price": {
+                            "international": "23.00", 
+                            "domestic": "4.00"
+                        }, 
+                        "currency_code": "USD"
+                    }
+                }, 
+                "shipping_regions": [
+                    "ALL"
+                ], 
+                "est_delivery": {
+                    "international": "7-15 Business Days", 
+                    "domestic": "3-5 Business Days"
+                }, 
+                "shipping_origin": "UNITED_STATES", 
+                "free": false
+            }, 
+            "metadata": {
+                "category": "physical good", 
+                "version": "1", 
+                "category_sub": "fixed price", 
+                "expiry": "never"
+            }, 
+            "moderators": [
+                {
+                    "fee": "1.0%", 
+                    "name": "EtherDesign Shop", 
+                    "blockchain_id": "@etherdesign", 
+                    "avatar": "fda61e1a6069312d4d4385825ac071cd24c97c08", 
+                    "short_description": "Hello, im graphic designer. With my skill, availability, and turn-around time, you can start updating your project as soon as you receive the PSD.", 
+                    "pubkeys": {
+                        "guid": "ea525766a686303131d30442889a7b4893f72d4d3bdb50677c6567bfd1921abe", 
+                        "bitcoin": {
+                            "key": "02f928a8c9b7649ab5924035179285467f2c78a18f3836b67fa7ee1c1f0d9a0bd3", 
+                            "signature": "qOkx1zMAyur+7EVZ1oEZ0RkH2TiHC3c9ok3AmlpVSReJsP0ym6skOUj6phqfAa2AUpZAW/Azr7H0AYs2wThOBw=="
+                        }
+                    }, 
+                    "guid": "9f24838c4f357ff8d1dc8a5797fb83de67d7baeb"
+                }, 
+                {
+                    "fee": "1.0%", 
+                    "name": "serp", 
+                    "blockchain_id": "@serp", 
+                    "avatar": "e3db7d0294d8828ec957803874d8b2f65165a431", 
+                    "short_description": "Moderator Extraordinaire:  https://mod.serpco.com/", 
+                    "pubkeys": {
+                        "guid": "393bb15196ce6b85e6609f2b8e16e8077d43563cc97377f774a95d10d16d747d", 
+                        "bitcoin": {
+                            "key": "03611be3d47f08eaa9f6f917710ff3a821feb0fe92eb894f615b316fbb0e0255ee", 
+                            "signature": "p6dZCl5TzojzRVGpiDWe5CgPeNJMHPc9o9vJC60pEy749dBJbghZ3dJ5cGLvB5wWyfkHmnosM+Go2v2u6azIAQ=="
+                        }
+                    }, 
+                    "guid": "29cce6a1b9bdb50e32967056f3ce7ac20f505958"
+                }
+            ]
+        }
+    }
+}

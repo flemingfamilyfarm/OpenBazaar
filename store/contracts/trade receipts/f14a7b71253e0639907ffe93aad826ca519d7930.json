@@ -1,0 +1,176 @@
+{
+    "vendor_offer": {
+        "signatures": {
+            "guid": "1hWF/6tPYwy2bRE6RT7Q7SOsgpQKbm4QYE+qa0fT/0JbeUpIT5E92oOkX0ZZNpDPCO8wyXF7ZzJGR7mL8cTICg==", 
+            "bitcoin": "H8Zsq9UaOzHSR2Nq/DDGR3i+1EKn27iPy2X3b716t3ijYkp7SKGwqVOFb7kUGJbndmxhqj5J4bgkRvaYQpCMw1M="
+        }, 
+        "listing": {
+            "id": {
+                "pubkeys": {
+                    "guid": "e9a143206f69be7bfeeefcb5b97f691d7a42f9e35111774b946c676a3ae73782", 
+                    "bitcoin": "039e9e7a09c802fb7f89f9e7ba0fd3bc0d033405e8493c639e6ec964ac694079a8"
+                }, 
+                "guid": "2549579aaf88e93ff3a6a5d3999f1a71b629546f", 
+                "blockchain_id": "@flemingfamilyfarm"
+            }, 
+            "item": {
+                "category": "Electronics", 
+                "description": "<p>For sale is a Raspberry Pi Zero V1.2 board. No extras, just the board. Would be good for someone looking to run their light duty OB server. \u00a0</p><p>Please ask if you have any questions.</p>", 
+                "price_per_unit": {
+                    "fiat": {
+                        "price": "12.00", 
+                        "currency_code": "USD"
+                    }
+                }, 
+                "title": "Raspberry Pi Zero V1.2", 
+                "process_time": "2-3 Days", 
+                "image_hashes": [
+                    "a142d3b9203544778a1881e050488f1386d606e0", 
+                    "b58f2b04c85dac89fb7c694bb811c0bc7adca600"
+                ], 
+                "nsfw": false, 
+                "keywords": [
+                    "Microcontroller", 
+                    "Linux", 
+                    "Raspberry", 
+                    "Pi", 
+                    "Server"
+                ], 
+                "condition": "Used - excellent"
+            }, 
+            "contract_id": "a4c407b7d5f3903e4195bd99d3537562fb2469e8", 
+            "shipping": {
+                "flat_fee": {
+                    "fiat": {
+                        "price": {
+                            "international": "5.45", 
+                            "domestic": "3.75"
+                        }, 
+                        "currency_code": "USD"
+                    }
+                }, 
+                "shipping_regions": [
+                    "ALL"
+                ], 
+                "est_delivery": {
+                    "international": "7-15 Business Days", 
+                    "domestic": "3-5 Business Days"
+                }, 
+                "shipping_origin": "UNITED_STATES", 
+                "free": false
+            }, 
+            "metadata": {
+                "category": "physical good", 
+                "version": "1", 
+                "category_sub": "fixed price", 
+                "expiry": "never"
+            }, 
+            "moderators": [
+                {
+                    "fee": "1.0%", 
+                    "name": "EtherDesign Shop", 
+                    "blockchain_id": "@etherdesign", 
+                    "avatar": "fda61e1a6069312d4d4385825ac071cd24c97c08", 
+                    "short_description": "Hello, im graphic designer. With my skill, availability, and turn-around time, you can start updating your project as soon as you receive the PSD.", 
+                    "pubkeys": {
+                        "guid": "ea525766a686303131d30442889a7b4893f72d4d3bdb50677c6567bfd1921abe", 
+                        "bitcoin": {
+                            "key": "02f928a8c9b7649ab5924035179285467f2c78a18f3836b67fa7ee1c1f0d9a0bd3", 
+                            "signature": "qOkx1zMAyur+7EVZ1oEZ0RkH2TiHC3c9ok3AmlpVSReJsP0ym6skOUj6phqfAa2AUpZAW/Azr7H0AYs2wThOBw=="
+                        }
+                    }, 
+                    "guid": "9f24838c4f357ff8d1dc8a5797fb83de67d7baeb"
+                }, 
+                {
+                    "fee": "1.0%", 
+                    "name": "serp", 
+                    "blockchain_id": "@serp", 
+                    "avatar": "e3db7d0294d8828ec957803874d8b2f65165a431", 
+                    "short_description": "Moderator Extraordinaire:  https://mod.serpco.com/", 
+                    "pubkeys": {
+                        "guid": "393bb15196ce6b85e6609f2b8e16e8077d43563cc97377f774a95d10d16d747d", 
+                        "bitcoin": {
+                            "key": "03611be3d47f08eaa9f6f917710ff3a821feb0fe92eb894f615b316fbb0e0255ee", 
+                            "signature": "p6dZCl5TzojzRVGpiDWe5CgPeNJMHPc9o9vJC60pEy749dBJbghZ3dJ5cGLvB5wWyfkHmnosM+Go2v2u6azIAQ=="
+                        }
+                    }, 
+                    "guid": "29cce6a1b9bdb50e32967056f3ce7ac20f505958"
+                }
+            ]
+        }
+    }, 
+    "buyer_order": {
+        "signatures": {
+            "guid": "lfxbUMGlyrRUdXRlkoLhhzJHAepdUwsLznUl+L5UcF11MM9b5fcPcp86fSJxT4012n0a+/IJG9k5Bdnq+0srCg==", 
+            "bitcoin": "IM7qHsdXryKTL5KJtq2jcR+t3sj1GwGsgs21uoi92NdUGDqfF7xhpfqMC1UKTMTtRq4ouvSe9TxIslrxWtREuz8="
+        }, 
+        "order": {
+            "refund_address": "1EEpme5xbAdYczZBiDD28uLy2KAkqFH14z", 
+            "shipping": {
+                "city": "Midland", 
+                "country": "UNITED_STATES", 
+                "state": "TX", 
+                "postal_code": "79707", 
+                "address": "3323 N Midland Dr Ste 113-111", 
+                "ship_to": "Taylor Crisp"
+            }, 
+            "id": {
+                "pubkeys": {
+                    "guid": "fe69094abb68a8c945f59b021b58fb2b448446a5170c5a72d17092db0d32e1e3", 
+                    "bitcoin": "0247a8d9591b9e676b117a0184bc2314eef1d262f62f9d038fc1a1dbef93c06981"
+                }, 
+                "guid": "c60a85b9036c0812112317a333114aec171951cc", 
+                "blockchain_id": "@knowitall"
+            }, 
+            "ref_hash": "5e3f3cdca3435cee2a1d500068d322f905c73915", 
+            "date": "2016-04-21 20:28:15.880417 UTC", 
+            "payment": {
+                "chaincode": "6514c539d29884135cd55fb4bc87d3ac0e6cbcc290992ed1fff0d2ed93b14aba", 
+                "amount": 0.03493401, 
+                "address": "12CSKZmWq6pifCtDnHgPQvoGH4NmWk9G3H"
+            }, 
+            "quantity": 1
+        }
+    }, 
+    "vendor_order_confirmation": {
+        "invoice": {
+            "shipping": {
+                "tracking_number": "9500 1101 8056 6112 0000 97", 
+                "est_delivery": "Monday 4-25-16", 
+                "shipper": "USPS"
+            }, 
+            "ref_hash": "f14a7b71253e0639907ffe93aad826ca519d7930", 
+            "comments": "Thank you for your order! I hope you enjoy and are able to put it to good use!"
+        }, 
+        "signature": "cMY234zysFHsSgm1lzYnTEA1+H6MoeHDPt45YeQD0v1HX9p+1ax7UsEPYuc9PBjgzi4R28LNYUxs+0ZNn1YaDw=="
+    }, 
+    "buyer_receipt": {
+        "receipt": {
+            "rating": {
+                "tx_summary": {
+                    "feedback": "5", 
+                    "quality": "5", 
+                    "description": "5", 
+                    "delivery_time": "5", 
+                    "customer_service": "5", 
+                    "review": "I'm a happy customer. Shipped same day. Product was as described. Well packaged.", 
+                    "address": "12CSKZmWq6pifCtDnHgPQvoGH4NmWk9G3H", 
+                    "buyer_key": "025d2ac309516340fab6c478c6568c1bb127ff36386613407f988d5edc18e7c843", 
+                    "amount": 0.03493401, 
+                    "listing": "a4c407b7d5f3903e4195bd99d3537562fb2469e8", 
+                    "proof_of_tx": "0R23nVa+vm0oQCNCPpgZ2fjHfbd4Flm7U+yaBCzt26igahkRSvoi7RqTT+FdZw4DvMC6Di4W2nRcyBSWpBSMBQ=="
+                }, 
+                "signature": "IF8yOBpA1clM1yCxxiWVcnwZJZmjrnfE77t1HmCgzw6RQDU5QF4GoQ0f9ASp8XLTU50JT2vq0b6wwpxPUnF5ZTs="
+            }, 
+            "dispute": {
+                "dispute": false
+            }, 
+            "ref_hash": "292bde3b0c89c260689f562e4a2440ab21e7d668", 
+            "listing": {
+                "received": true, 
+                "listing_hash": "5e3f3cdca3435cee2a1d500068d322f905c73915"
+            }
+        }, 
+        "signature": "xVSoyAPTuNzkJ3tJ2ZnVWbGO5no92X4fAaEOV/+ZQBn1IjX0A+HvlO0zEyTaF0rDNFy9bQVsA4231eOSRVGEBA=="
+    }
+}

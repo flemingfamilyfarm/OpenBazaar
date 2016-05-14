@@ -1,0 +1,145 @@
+{
+    "vendor_offer": {
+        "signatures": {
+            "guid": "Q6boCp0mzq3I3uBBSEhm0EHzwQ8sQxldK4RIRNzZ1Mv0atuBkYWHWh5YKOpko/8SmDiCIejGwMT0s2vrfKt0BA==", 
+            "bitcoin": "IKp0IEJ0/DQySMKtNpwEp88+4xSivFEVhSTd/T2WyE0qdw3iUhoqv8h9ZFMFOul26JeCyN1VMr7FsBXDaUNrNEk="
+        }, 
+        "listing": {
+            "contract_id": "af29840b20e8d72aaf93a13986387282550d0d78", 
+            "shipping": {
+                "flat_fee": {
+                    "fiat": {
+                        "price": {
+                            "international": "0.00", 
+                            "domestic": "3.00"
+                        }, 
+                        "currency_code": "USD"
+                    }
+                }, 
+                "shipping_regions": [
+                    "UNITED_STATES"
+                ], 
+                "est_delivery": {
+                    "international": "", 
+                    "domestic": "3-5 Business Days"
+                }, 
+                "shipping_origin": "UNITED_STATES", 
+                "free": false
+            }, 
+            "item": {
+                "category": "Yard Sale - DVDs", 
+                "description": "<p>The Godfather (1972) DVD from 2004 in excellent condition with no scratches or scuffs to disc. \u00a0\u00a0</p><p>Shipping thru USPS to USA only</p>", 
+                "price_per_unit": {
+                    "fiat": {
+                        "price": "2.00", 
+                        "currency_code": "USD"
+                    }
+                }, 
+                "title": "The Godfather (1972) DVD Movie", 
+                "process_time": "2 - 3 Days", 
+                "image_hashes": [
+                    "38c2249d1f01d6a982233a7446b8aa7535ad818a", 
+                    "023f12c87d539e6f05acc0e04fe2483106aa0285"
+                ], 
+                "nsfw": false, 
+                "keywords": [
+                    "DVD", 
+                    "Brando", 
+                    "The Godfather"
+                ], 
+                "condition": "Used - excellent"
+            }, 
+            "moderators": [
+                {
+                    "fee": "1.0%", 
+                    "name": "Vintage Fashion", 
+                    "blockchain_id": "@vintagefashion", 
+                    "avatar": "0d8353d7a4d801aca7a927583bb5b536a667997d", 
+                    "short_description": "Dropshipping the latest and greatest vintage fashion for ladies and gentlemen worldwide.", 
+                    "pubkeys": {
+                        "guid": "ee95ca06000290bd585aab79533e7824f00943d4466cf96636969cca8902fa46", 
+                        "bitcoin": {
+                            "key": "0286810d2a456200788f5166cd10890a2b614e8a6eca13203c0abedb62c169d486", 
+                            "signature": "xk0EdRe4RpL8K7HaJ32lZ6Q0rYQIRGwcUcZvyP9Y6DPZ+PfXr71V9rpqtX7DATby2scwffDVR56wcROPMCZvAg=="
+                        }
+                    }, 
+                    "guid": "ee20fe376c5a86adc79ef48669cbe2a4638f314b"
+                }, 
+                {
+                    "fee": "1.0%", 
+                    "name": "EtherDesign Shop", 
+                    "blockchain_id": "@etherdesign", 
+                    "avatar": "16e1bde1efa9ebbb04c23734a752000cf2c4458a", 
+                    "short_description": "Hello, im graphic designer. With my skill, availability, and turn-around time, you can start updating your project as soon as you receive the PSD.", 
+                    "pubkeys": {
+                        "guid": "ea525766a686303131d30442889a7b4893f72d4d3bdb50677c6567bfd1921abe", 
+                        "bitcoin": {
+                            "key": "02f928a8c9b7649ab5924035179285467f2c78a18f3836b67fa7ee1c1f0d9a0bd3", 
+                            "signature": "qOkx1zMAyur+7EVZ1oEZ0RkH2TiHC3c9ok3AmlpVSReJsP0ym6skOUj6phqfAa2AUpZAW/Azr7H0AYs2wThOBw=="
+                        }
+                    }, 
+                    "guid": "9f24838c4f357ff8d1dc8a5797fb83de67d7baeb"
+                }, 
+                {
+                    "fee": "0.0%", 
+                    "name": "Mario Dian", 
+                    "blockchain_id": "@mariodian", 
+                    "avatar": "cd95678c09ed1c59e0fa213929b5d96ac1f9045e", 
+                    "short_description": "Free moderation for a limited time.", 
+                    "pubkeys": {
+                        "guid": "b10c52b8aca0edb50ef0bbb08e212c05e566ad556b51b6ebfeee737c961fa1f0", 
+                        "bitcoin": {
+                            "key": "02c4cea5a1bc68dce4801d5c6d77a21cf47b73b48b6240d9e19d424f69d5cb6d01", 
+                            "signature": "t0pvr3FgMryD5lvUCXrQjHD7zEjIDsscH5ZJdlBzCFNahwiHWFKf8LH1hK0IWnsnFmfEQfmXe9Wp2DRAiSgSAg=="
+                        }
+                    }, 
+                    "guid": "c8e7bb0c015fbd0613841e52397523600d72c5b5"
+                }, 
+                {
+                    "fee": "0.0%", 
+                    "name": "Yummy Yards", 
+                    "blockchain_id": "", 
+                    "avatar": "55a3a9627578df6412780439c2c364bb6539b012", 
+                    "short_description": "We grow organic vegetables and sell eggs and honey", 
+                    "pubkeys": {
+                        "guid": "65f40ffe8c35134f20b9c5ca45361ab6a8fbbddd59dfaafc6389201f1c63460f", 
+                        "bitcoin": {
+                            "key": "02b3dfbcf43b6b1015e208ac101d6d83e3299383b9aed19d85071ee03457278cb4", 
+                            "signature": "y3cVO7iu51oulNneG8Fi1+CsLK48YXVjtapnVgdLfuQorKVewMv4DmPADJxvDZ1W08/UlNBEEgOYAaXxoNzPBQ=="
+                        }
+                    }, 
+                    "guid": "8ceb5449aa52cb38885197e37f7aa53f33ad5d96"
+                }, 
+                {
+                    "fee": "1.0%", 
+                    "name": "Tygg's Seedery", 
+                    "blockchain_id": "@tyggrr", 
+                    "avatar": "4d435682ab96b07c48ff44abe51ad3280c9dcb26", 
+                    "short_description": "seed is life", 
+                    "pubkeys": {
+                        "guid": "7045254f3e92af8f275e42954107444ed688579853e9126e151ace3c91ee7622", 
+                        "bitcoin": {
+                            "key": "02bc8af0589e21fd3505b09fb26a06d953a50085aa62a21408ec749eb1e80594f3", 
+                            "signature": "hjuBdL01HxJEF6LR7+loucfyAuXTUqBy66ug7r6D7N+nmRD0MJsw5fF7vcQlp5SCG819vg06Ydw9SuFaK8mnAA=="
+                        }
+                    }, 
+                    "guid": "c485bd9861dd2e9f896c21bae5af868abca55eff"
+                }
+            ], 
+            "id": {
+                "pubkeys": {
+                    "guid": "e9a143206f69be7bfeeefcb5b97f691d7a42f9e35111774b946c676a3ae73782", 
+                    "bitcoin": "039e9e7a09c802fb7f89f9e7ba0fd3bc0d033405e8493c639e6ec964ac694079a8"
+                }, 
+                "guid": "2549579aaf88e93ff3a6a5d3999f1a71b629546f", 
+                "blockchain_id": "@flemingfamilyfarm"
+            }, 
+            "metadata": {
+                "category": "physical good", 
+                "version": "1", 
+                "category_sub": "fixed price", 
+                "expiry": "never"
+            }
+        }
+    }
+}

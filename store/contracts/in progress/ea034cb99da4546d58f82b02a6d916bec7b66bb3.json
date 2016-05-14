@@ -1,0 +1,205 @@
+{
+    "vendor_offer": {
+        "signatures": {
+            "guid": "5PHA5ThM1Pz3AZieDiDqoOgBh12fyVvisl/BzLq63ADGfqsXU0XCfq2NORSrQ1YuZiB616IR02UOh0+n9mZ2AQ==", 
+            "bitcoin": "H4spr/B27eEcgACvPf0fNsfgDaPidKlKGvPbbiCWsfh9bpfxTsBQONfQvHfB2Y0yASaLW611Rrmym2DhFJN9OmA="
+        }, 
+        "listing": {
+            "contract_id": "15e7027895f11a9e54c8eb8ea31a9d1956ebaa30", 
+            "shipping": {
+                "flat_fee": {
+                    "fiat": {
+                        "price": {
+                            "international": "0.00", 
+                            "domestic": "75.00"
+                        }, 
+                        "currency_code": "USD"
+                    }
+                }, 
+                "shipping_regions": [
+                    "UNITED_STATES"
+                ], 
+                "est_delivery": {
+                    "international": "", 
+                    "domestic": "3-5 Business Days"
+                }, 
+                "shipping_origin": "UNITED_STATES", 
+                "free": false
+            }, 
+            "item": {
+                "category": "Yard Sale - Electronics", 
+                "description": "IBM X3550 ServerIBM Part # : 7978-AC1<p><span><u><span><strong>X3550 3.5&quot; Server Configured with:</strong></span></u></span></p><p><span><span><em><strong><u>Processors:</u>\u00a0\u00a0</strong></em><span>2 x 3GHz/8mb E5160 Xeon <b><i>Dual</i></b>\u00a0Core</span></span></span></p><p><span><span><span><em><span><strong><u>Memory:</u>\u00a0 8</strong></span></em>GB DDR3 Memory Dimms</span></span></span></p><p><span><span><span><em><strong><u><span>Controller</span>:</u>\u00a0\u00a0\u00a0 </strong></em>ServeRaid 8k 32mb</span></span></span></p><p><span><span><u><em><strong>Hard Drives:</strong></em></u><span><em><em>\u00a0 \u00a02</em></em>\u00a0x 72gb 10k 3.5&quot; SAS</span></span></span><br /></p><p><span><strong><span><em><u>Power Supply:</u></em></span></strong><span>\u00a0 <span>2 x 670Watt Hot Swap</span></span></span></p><p><span><span><span>Currently has a install of Ubuntu 14.04 Server on it but can be wiped before shipment.</span></span></span></p><p><span><span><span>Weighs 36 pounds so Shipping to US address is $75.00. Local pickup is available.</span></span></span></p>", 
+                "price_per_unit": {
+                    "fiat": {
+                        "price": "70.00", 
+                        "currency_code": "USD"
+                    }
+                }, 
+                "title": "IBM X3550 Server XEON 2x 3.00ghz RPS DVD Raid 2 x 72gb 10k 3.5", 
+                "process_time": "1-3 Days", 
+                "image_hashes": [
+                    "5ef25a3d4e08fe4b5ca6c72d7ba81439921bf9a3", 
+                    "c1c20b29460c36ca8141d0b6c920c88ee1b81bf4", 
+                    "7593419ee18992903f953f20ad6e952b46bec6c1", 
+                    "00e0a55c15e85c14c25563496e4aad6b0e894fc6"
+                ], 
+                "nsfw": false, 
+                "keywords": [
+                    "IBM", 
+                    "Server", 
+                    "Computer"
+                ], 
+                "condition": "Used - excellent"
+            }, 
+            "moderators": [
+                {
+                    "fee": "1.0%", 
+                    "name": "Vintage Fashion", 
+                    "blockchain_id": "@vintagefashion", 
+                    "avatar": "0d8353d7a4d801aca7a927583bb5b536a667997d", 
+                    "short_description": "Dropshipping the latest and greatest vintage fashion for ladies and gentlemen worldwide.", 
+                    "pubkeys": {
+                        "guid": "ee95ca06000290bd585aab79533e7824f00943d4466cf96636969cca8902fa46", 
+                        "bitcoin": {
+                            "key": "0286810d2a456200788f5166cd10890a2b614e8a6eca13203c0abedb62c169d486", 
+                            "signature": "xk0EdRe4RpL8K7HaJ32lZ6Q0rYQIRGwcUcZvyP9Y6DPZ+PfXr71V9rpqtX7DATby2scwffDVR56wcROPMCZvAg=="
+                        }
+                    }, 
+                    "guid": "ee20fe376c5a86adc79ef48669cbe2a4638f314b"
+                }, 
+                {
+                    "fee": "1.0%", 
+                    "name": "EtherDesign Shop", 
+                    "blockchain_id": "@etherdesign", 
+                    "avatar": "16e1bde1efa9ebbb04c23734a752000cf2c4458a", 
+                    "short_description": "Hello, im graphic designer. With my skill, availability, and turn-around time, you can start updating your project as soon as you receive the PSD.", 
+                    "pubkeys": {
+                        "guid": "ea525766a686303131d30442889a7b4893f72d4d3bdb50677c6567bfd1921abe", 
+                        "bitcoin": {
+                            "key": "02f928a8c9b7649ab5924035179285467f2c78a18f3836b67fa7ee1c1f0d9a0bd3", 
+                            "signature": "qOkx1zMAyur+7EVZ1oEZ0RkH2TiHC3c9ok3AmlpVSReJsP0ym6skOUj6phqfAa2AUpZAW/Azr7H0AYs2wThOBw=="
+                        }
+                    }, 
+                    "guid": "9f24838c4f357ff8d1dc8a5797fb83de67d7baeb"
+                }, 
+                {
+                    "fee": "0.0%", 
+                    "name": "Mario Dian", 
+                    "blockchain_id": "@mariodian", 
+                    "avatar": "cd95678c09ed1c59e0fa213929b5d96ac1f9045e", 
+                    "short_description": "Free moderation for a limited time.", 
+                    "pubkeys": {
+                        "guid": "b10c52b8aca0edb50ef0bbb08e212c05e566ad556b51b6ebfeee737c961fa1f0", 
+                        "bitcoin": {
+                            "key": "02c4cea5a1bc68dce4801d5c6d77a21cf47b73b48b6240d9e19d424f69d5cb6d01", 
+                            "signature": "t0pvr3FgMryD5lvUCXrQjHD7zEjIDsscH5ZJdlBzCFNahwiHWFKf8LH1hK0IWnsnFmfEQfmXe9Wp2DRAiSgSAg=="
+                        }
+                    }, 
+                    "guid": "c8e7bb0c015fbd0613841e52397523600d72c5b5"
+                }, 
+                {
+                    "fee": "0.0%", 
+                    "name": "Yummy Yards", 
+                    "blockchain_id": "", 
+                    "avatar": "55a3a9627578df6412780439c2c364bb6539b012", 
+                    "short_description": "We grow organic vegetables and sell eggs and honey", 
+                    "pubkeys": {
+                        "guid": "65f40ffe8c35134f20b9c5ca45361ab6a8fbbddd59dfaafc6389201f1c63460f", 
+                        "bitcoin": {
+                            "key": "02b3dfbcf43b6b1015e208ac101d6d83e3299383b9aed19d85071ee03457278cb4", 
+                            "signature": "y3cVO7iu51oulNneG8Fi1+CsLK48YXVjtapnVgdLfuQorKVewMv4DmPADJxvDZ1W08/UlNBEEgOYAaXxoNzPBQ=="
+                        }
+                    }, 
+                    "guid": "8ceb5449aa52cb38885197e37f7aa53f33ad5d96"
+                }, 
+                {
+                    "fee": "1.0%", 
+                    "name": "Tygg's Seedery", 
+                    "blockchain_id": "@tyggrr", 
+                    "avatar": "4d435682ab96b07c48ff44abe51ad3280c9dcb26", 
+                    "short_description": "seed is life", 
+                    "pubkeys": {
+                        "guid": "7045254f3e92af8f275e42954107444ed688579853e9126e151ace3c91ee7622", 
+                        "bitcoin": {
+                            "key": "02bc8af0589e21fd3505b09fb26a06d953a50085aa62a21408ec749eb1e80594f3", 
+                            "signature": "hjuBdL01HxJEF6LR7+loucfyAuXTUqBy66ug7r6D7N+nmRD0MJsw5fF7vcQlp5SCG819vg06Ydw9SuFaK8mnAA=="
+                        }
+                    }, 
+                    "guid": "c485bd9861dd2e9f896c21bae5af868abca55eff"
+                }
+            ], 
+            "id": {
+                "pubkeys": {
+                    "guid": "e9a143206f69be7bfeeefcb5b97f691d7a42f9e35111774b946c676a3ae73782", 
+                    "bitcoin": "039e9e7a09c802fb7f89f9e7ba0fd3bc0d033405e8493c639e6ec964ac694079a8"
+                }, 
+                "guid": "2549579aaf88e93ff3a6a5d3999f1a71b629546f", 
+                "blockchain_id": "@flemingfamilyfarm"
+            }, 
+            "metadata": {
+                "category": "physical good", 
+                "version": "1", 
+                "category_sub": "fixed price", 
+                "expiry": "never"
+            }
+        }
+    }, 
+    "buyer_order": {
+        "signatures": {
+            "guid": "YOgxSaMN1zkyQnijquWkMetvgrEtXqC41LqJ4QAVLixs5+2I3wYQNl84F0Mvo/dmcVvEB1pkyspbENQAONDwDg==", 
+            "bitcoin": "H4jguwO7fm28fcOwF+AG+xVJGlLUD79wPzOxidZXY0dYZTf4ZX1mQC60WJhQUh4qpwpVuRB7qyrK3EdWiiutxKE="
+        }, 
+        "order": {
+            "refund_address": "1jFaSotpgGyfx6Fuo9Lq5boEuV8eproHa", 
+            "shipping": {
+                "city": "Hudson", 
+                "country": "UNITED_STATES", 
+                "state": "Florida", 
+                "postal_code": "34669", 
+                "address": "9641 Bud St.", 
+                "ship_to": "Gary Marshall"
+            }, 
+            "id": {
+                "pubkeys": {
+                    "guid": "ed794f838530f9ad9375f9969746004badaed568c1abb4dfd2c545bbf7832c00", 
+                    "bitcoin": "02c24e6b6b87d5998528a1fa1be9f3319a129ef50d18d58e401819da92699cd3a6"
+                }, 
+                "guid": "2e97c86de1bd54cb12d2cf75cb1bfe4939063a7d", 
+                "blockchain_id": "@fliptoad"
+            }, 
+            "moderator": "9f24838c4f357ff8d1dc8a5797fb83de67d7baeb", 
+            "ref_hash": "f5fb0e4dce0986fbc22a4bca522f745360c4fa7e", 
+            "date": "2016-04-30 23:44:01.080727 UTC", 
+            "payment": {
+                "refund_tx_fee": 15000, 
+                "chaincode": "3c2be5b37ed7eb867f6db2259cf53e071483f38101c3799a61de32a565e67cb5", 
+                "amount": 0.3221077, 
+                "address": "3BhZjpujHRHouF7ogv1iC5QUwF9qh3cHdG", 
+                "redeem_script": "522102abc03354eebab85120f5a16c0434a508d6c66158cd863e9af55e94649c89c34a2103d1899f8687363bc33b33300b405da9b94ca31d0e651c3e981d850e1d134328c52102212e1323fc4283142b1d970cceef7d4390a6e09e28caa8e9c8f6e0d4b3cb38db53ae"
+            }, 
+            "quantity": 1
+        }
+    }, 
+    "vendor_order_confirmation": {
+        "invoice": {
+            "payout": {
+                "signature(s)": [
+                    {
+                        "index": 0, 
+                        "signature": "304402205f111b29aad503e178aefbb19d82191027a87ba4f33ec99e55524291a5a1962b022002558d9b0b190deef59c123af3d9d5207c924cda5d6fc8c11515c39621ba4eac01"
+                    }
+                ], 
+                "value": 32195770, 
+                "address": "1595HzVnqhvXiKBTjYzsCJNBX1Vdg5tpAL"
+            }, 
+            "shipping": {
+                "tracking_number": "1Z1X13730339150181", 
+                "est_delivery": "Monday May 9th", 
+                "shipper": "UPS"
+            }, 
+            "ref_hash": "ea034cb99da4546d58f82b02a6d916bec7b66bb3", 
+            "comments": "Thanks for the order."
+        }, 
+        "signature": "b6zQ3mGGOe1YvvyVviNbo2Mb/o+01UvyZzLe/SugDD/Vx4mB5yqjvTzjE7YRwa7pmzyvZe6KHRpGN5xw3CDKBQ=="
+    }
+}
